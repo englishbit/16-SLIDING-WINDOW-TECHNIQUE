@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main(){
-    int n;
+    
+    int n,k;
     scanf("%d",&n);
-    int k;
+    
     scanf("%d",&k);
 
     //logic for special case
@@ -61,3 +62,4 @@ int main(){
 
     return 0;
 }
+
