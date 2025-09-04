@@ -2,6 +2,7 @@
 int main(){
     
     int n,k;
+    //logic for taking input
     scanf("%d",&n);
     
     scanf("%d",&k);
@@ -62,4 +63,5 @@ int main(){
 
     return 0;
 }
+
 
