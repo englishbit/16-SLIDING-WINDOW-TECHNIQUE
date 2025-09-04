@@ -51,16 +51,5 @@ int main(){
         printf("the maximum sum subarray of size %d is %d\n",k,max_sum);
 
 
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
