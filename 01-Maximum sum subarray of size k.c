@@ -47,6 +47,7 @@ int main(){
          }
     }
 
+    //logic for output
         printf("the maximum sum subarray of size %d is %d\n",k,max_sum);
 
 
@@ -63,5 +64,6 @@ int main(){
 
     return 0;
 }
+
 
 
